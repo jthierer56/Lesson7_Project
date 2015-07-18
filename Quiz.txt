@@ -1,5 +1,5 @@
 *****************************************************
-Project Name:  Recipe Display Application
+Project Name:  Recipe Display Application - Project 
 Author: 
 Date:   
 
